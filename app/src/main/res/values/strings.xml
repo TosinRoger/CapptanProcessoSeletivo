@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Capptan Processo Seletivo</string>
+
+    <!--LOGIN-->
+    <string name="user_invalid">Usuário inválido</string>
+    <string name="user_empty">Usuário vazio</string>
+    <string name="pass_invalid">Senha inválida</string>
+    <string name="pass_empty">Senha vazia</string>
 </resources>
